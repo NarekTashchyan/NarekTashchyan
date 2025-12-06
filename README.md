@@ -3,8 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/NarekTashchyan?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/NarekTashchyan?label=Stars&style=social)
 
-I'm a passionate developer interested in web development, open source, and building cool projects.
-
 ## 🚀 Skills
 
 - **Languages**:
